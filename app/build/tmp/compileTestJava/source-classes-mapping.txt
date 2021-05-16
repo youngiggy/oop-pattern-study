@@ -1,0 +1,20 @@
+oop/section02/CalculatorTest.java
+ oop.section02.CalculatorTest
+oop/section12/DeviceTest.java
+ oop.section12.DeviceTest
+oop/section04/VendingMachineTest.java
+ oop.section04.VendingMachineTest
+oop/section03/AuthenticatorTest.java
+ oop.section03.AuthenticatorTest
+oop/section07/SearchAdapterTest.java
+ oop.section07.SearchAdapterTest
+oop/section06/ProxyTest.java
+ oop.section06.ProxyTest
+oop/section05/DecoratorTest.java
+ oop.section05.DecoratorTest
+oop/section11/StageTest.java
+ oop.section11.StageTest
+oop/section08/StatusCheckerTest.java
+ oop.section08.StatusCheckerTest
+oop/sectionAppendix01/BankAccountTest.java
+ oop.sectionAppendix01.BankAccountTest
